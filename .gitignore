@@ -25,3 +25,7 @@ venv/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# temporary file for testing
+notebook.ipynb
+.idea
