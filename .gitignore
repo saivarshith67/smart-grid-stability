@@ -27,5 +27,4 @@ venv/
 Thumbs.db
 
 # temporary file for testing
-notebook.ipynb
 .idea
